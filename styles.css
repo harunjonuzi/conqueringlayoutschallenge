@@ -22,8 +22,7 @@ body {
   text-align: center;
 }
 
-/* GENERAL STYLING - GENERAL STYLING - GENERAL STYLING */
-/* GENERAL STYLING - GENERAL STYLING - GENERAL STYLING */
+/* GENERAL STYLING */
 
 img {
   max-width: 100%;
@@ -39,8 +38,8 @@ p {
   line-height: 1.5rem;
 }
 
-/* NAV BAR - NAV BAR - NAV BAR */
-/* NAV BAR - NAV BAR - NAV BAR */
+/* NAV BAR */
+
 header {
   background-color: var(--dark-clr);
 }
@@ -111,8 +110,7 @@ nav {
   background-color: white;
 }
 
-/* HERO SECTION - HERO SECTION */
-/* HERO SECTION - HERO SECTION */
+/* HERO SECTION */
 
 .hero {
   background-color: var(--dark2-clr);
@@ -146,8 +144,7 @@ span {
   display: inline-block;
 }
 
-/* SUB-HERO SECTION - SUB-HERO SECTION */
-/* SUB-HERO SECTION - SUB-HERO SECTION */
+/* SUB-HERO SECTION */
 
 .accent-header {
   color: var(--cream-clr);
@@ -160,8 +157,7 @@ span {
   padding: 3rem 0;
 }
 
-/* MAIN SECTION -- MAIN SECTION */
-/* MAIN SECTION -- MAIN SECTION */
+/* MAIN SECTION */
 
 main {
   padding: 2rem 0;
@@ -180,8 +176,7 @@ main {
   background-color: var(--dark-clr);
 }
 
-/* FOOTER SECTON -- FOOTER SECTON */
-/* FOOTER SECTON -- FOOTER SECTON */
+/* FOOTER SECTON */
 
 footer {
   color: #fff;
@@ -210,8 +205,7 @@ footer {
   padding: 0.5rem 0;
 }
 
-/* MEDIA QUERIES - MEDIA QUERIES */
-/* MEDIA QUERIES - MEDIA QUERIES */
+/* MEDIA QUERIES */
 
 @media (max-width: 700px) {
   .hamburger {
